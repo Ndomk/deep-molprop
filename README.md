@@ -76,38 +76,6 @@ The notebook explores one or more regression approaches, such as:
 
 ---
 
-## 📊 Key Visualizations
-
-*(After uploading your PNG images into `figures/`, update the filenames below to match.)*
-
-### **Training Loss Curve**
-![Training loss](figures/loss_curve.png)
-
-Shows convergence behavior and potential overfitting.
-
----
-
-### **Predicted vs True Partial Charges**
-![Predicted vs true](figures/predicted_vs_true_charges.png)
-
-The ideal model outputs would fall along a diagonal line; deviation indicates error.
-
----
-
-### **Error Distribution**
-![Error distribution](figures/error_distribution.png)
-
-Histogram of prediction errors (predicted – true), revealing model spread and outliers.
-
----
-
-### **Feature Importance (if applicable)**
-![Feature importance](figures/feature_importance.png)
-
-Highlights which descriptors contribute most strongly to predicting metal charges.
-
----
-
 ## 🚀 How to Run
 
 ### **Option 1 — Google Colab (Recommended)**
